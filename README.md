@@ -23,7 +23,7 @@ The notebook implements an end-to-end LangGraph workflow that:
 
 ## Repository Structure
 ```bash
-├── healthbot.ipynb          
+├── Code.ipynb          
 ├── config.env  
 ├── requirements.txt      
 ├── .gitignore              
